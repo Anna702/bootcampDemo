@@ -1,6 +1,6 @@
 # bootcampDemo
 
-This repo is to practice my Git Add, Commit, Push skills.
+This repo was created to practice my Git Add, Commit, Push skills.
 
 ## Installation
 
