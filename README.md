@@ -1,2 +1,15 @@
 # bootcampDemo
-a repo to practice Git Add, Commit, Push
+
+This repo is to practice my Git Add, Commit, Push skills.
+
+## Installation
+
+N/A
+
+## Credits
+
+N/A
+
+## License
+
+MIT license: please refer to the LICENSE in the repo.
